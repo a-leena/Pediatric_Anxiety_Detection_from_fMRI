@@ -1,0 +1,30 @@
+20209
+20725
+21100 (only mean a bit cut off)
+21214 (run1 - full, run2 - starting)
+21508
+22268 (run2 - last, mean sagittal a bit cut off)
+22281
+22286 (sagittal a little too zoomed in?)
+22295 (only mean a little cut off)
+22346 (only mean a little cut off)
+22353
+22354
+22365 (starting and ending, and sagittal chopped at the base)
+22366 (only mean a little cut off)
+22380
+22381
+22475 (only mean a little cut off)
+22477 (run1 - coronal and sagittal chopped, run2 - coronal chopped, mean - coronal & sagittal a little cut off)
+22482
+22487 (only mean a very little cut off)
+22494 (horrible)
+22532 (only mean a very very little cut off)
+22536
+22587 (run1 - bad, run2 - ok-ish, mean - cut off and overlapping)
+22600
+22623 (very bad)
+22630 (run1 - starting, run2 - not good, mean - coronal & sagittal cut off)
+22686 (only mean a very very little cut off)
+22687 (very bad)
+22727 (starting, mean - very very very very little cut off)
